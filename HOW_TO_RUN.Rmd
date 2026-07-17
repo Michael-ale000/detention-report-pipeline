@@ -1,0 +1,186 @@
+---
+title: "How to Run the Detention Report Pipeline"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+This document walks through the full pipeline that turns bi-weekly ICE
+detention facility releases into the Interval ADP charts and HTML reports
+published at [detentionreports.com](https://detentionreports.com/).
+
+Every chunk below is set to `eval = FALSE` — this file is a **guide**, not a
+script to knit end to end. Run each `source()` line yourself in the R console
+(with `ice_detention_reports.Rproj` open, so working directory is correct),
+checking the messages/warnings each step prints before moving to the next.
+
+## 0. One-time setup
+
+```{r}
+install.packages(c(
+  "tidyverse", "openxlsx", "readxl", "janitor", "stringr", "rlang",
+  "rjson", "jsonlite", "here", "ggplot2", "scales", "patchwork",
+  "extrafont", "cowplot", "magick", "quarto", "leaflet", "DT",
+  "knitr", "kableExtra", "purrr", "lubridate"
+))
+```
+
+Open `ice_detention_reports.Rproj` in RStudio before running anything —
+every script uses relative paths from the project root.
+
+## 1. Drop in the new release
+
+Copy the new bi-weekly xlsx into `./DetentionFacilities/`. Sanity-check it
+first:
+
+- Are population values rounded oddly, or blank for any facility?
+- Do the three category totals (classification / criminality / threat level)
+  roughly agree?
+- Note the release's "as of" date — you'll need it for the touchpoint edits
+  in step 3.
+
+## 2. Interval ADP + individualized subpopulation ADP
+
+```{r}
+source("interval_adp.r")             # -> final, latest_date, all_clean, output_clean
+source("Individual_Internal_ADP.r")  # -> IntervalAdpForIndividualColumn_<date>_v1.xlsx
+```
+
+`interval_adp.r` reads **every** xlsx in `DetentionFacilities/`, not just the
+newest one — that's what lets stale/historical facilities (step 6) still be
+chartable later. `Individual_Internal_ADP.r` also joins in Owner / Operator /
+Institutional Type from `ICE_Facility_Owner&Operator.xlsx`, keyed on
+`DETLOC`.
+
+**Known manual touchpoint:** if the new release resurrects a facility whose
+`Name` collides across states (e.g. two different "Clinton County Jail"
+entries, one NY one IN), check the `case_when(...)` DETLOC-override blocks in
+`detloc_processing_2025-12-08.r` and `Individual_Internal_ADP.r` — add an
+override there if the automatic join picks the wrong one.
+
+## 3. Charts
+
+Before running, update these hardcoded touchpoints for the new release date:
+
+- `interval_adp_chartmaker.r`: none needed if using `run_pipeline.r` (dates
+  are derived from `latest_date` automatically); when running standalone,
+  `touchpoint_date` / `as_of_date` / `plots_folder` are set from the max pull
+  date in `final`.
+- Create the new output folder if it doesn't exist yet:
+  `plots<YYYY_MM_DD>/` and `mandatory_plots<YYYY_MM_DD>/` — both scripts
+  `dir.create()` these automatically, no manual step required.
+
+```{r}
+source("interval_adp_chartmaker.r")   # bar charts (plots<date>/) + ALOS scatter (plots7/)
+source("MandatoryDetentionNumber.r")  # -> "mandatory detention with interval adp...xlsx"
+source("mandatory_chartmaker.r")      # mandatory stacked charts (mandatory_plots<date>/)
+```
+
+Validate the chart count matches the facility count in the new release
+before moving on.
+
+## 4. Render HTML reports
+
+```{r}
+source("facilities_reporting.r")
+```
+
+This renders one HTML file per facility present in the **latest** release
+(auto-detected by file mtime in `./DetentionFacilities/`), writing to
+`./html/`. It also automatically:
+
+- Resolves DETLOC via `detloc_2025-04-13.csv`, falling back to
+  `ICE_Facility_Owner&Operator.xlsx` for anything not found there.
+- Renders Clinton County Jail separately (its Name collides across states,
+  so it's excluded from the main loop and handled by City-disambiguated
+  join at the end of the script).
+
+Two block toggles inside the script (comment one in, the other out):
+
+- **ALL FACILITIES** (default/active) — renders every facility in the
+  current release.
+- **NEW CONTRACTS ONLY** — filters to `facility_with_new_contracts final.csv`;
+  only use this if you specifically want a partial run for newly-contracted
+  facilities.
+
+## 5. Update the facility index
+
+```{r}
+source("generate_index.r")
+```
+
+Reads `old_index.json` + the newly computed `final`, writes `index.json` —
+the metadata file the detentionreports.com site uses to list every facility
+that's ever had a report. Facilities present in the old index are always
+kept even if they're not in the newest release (see step 6 for why that
+matters).
+
+Optionally, to enrich the index with Owner/Operator/Institutional Type
+without touching `index.json` itself:
+
+```{r}
+source("add_operator_info_to_index.r")  # -> index_with_operator_info.json
+```
+
+## 6. Stale / historical facilities
+
+Because `index.json` accumulates every facility ever reported, and the
+regular pipeline (steps 3–4) only processes facilities in the **latest**
+release, facilities that drop out of recent releases stop getting new charts
+and reports even though their pages are still live. These two scripts cover
+that gap — run them **after** step 5, once `index.json` is current:
+
+```{r}
+source("stale_facilities_charts.r")     # bar + scatter + mandatory charts,
+                                         # using each facility's OWN last pull date
+source("stale_facilities_reporting.r")  # HTML reports for the same set
+```
+
+How they work:
+
+- `stale_facilities_charts.r` diffs `index.json`'s DETLOCs against the
+  latest release's DETLOCs. For each stale one, it pulls that facility's
+  full history from `final` (which — per step 2 — already contains every
+  release, not just the latest) and charts it using its own last-seen pull
+  date, so the x-axis doesn't stretch out to the current touchpoint with a
+  long empty gap.
+- `stale_facilities_reporting.r` does the equivalent for HTML: it builds a
+  small `IntervalAdpForStaleFacilities_<date>.xlsx` (each stale facility's
+  row at its own last pull date), figures out which older
+  `DetentionFacilities/*.xlsx` release that facility's metadata should come
+  from, and renders the qmd with a `meta_xlsx` param override pointing at
+  that older file.
+
+To re-render just specific facilities instead of the whole stale set (e.g.
+after fixing coordinates for one or two), set `only_detlocs` first:
+
+```{r}
+only_detlocs <- c("KANHOLD", "NRJDCVA")
+source("stale_facilities_reporting.r")
+```
+
+**Missing coordinates:** both scripts skip (and log) any facility not found
+in `src/facility_locations.csv`. Add a `Name, Address, City, State, Zip`
+row there (Name must match the raw ALL-CAPS spelling from the relevant
+`DetentionFacilities` release exactly) with latitude/longitude filled in,
+then re-run.
+
+## 7. Push HTML to GitHub
+
+Push the contents of `./html/` to the reports repo. The historical guidance
+was to push in batches of ≤13 files via GitHub Desktop — verify against
+current repo settings/CI before assuming that limit still applies.
+
+## Full pipeline in one shot
+
+For a routine release with no new edge cases, `run_pipeline.r` chains steps
+2–4:
+
+```{r}
+source("run_pipeline.r")
+```
+
+It does **not** run step 5 (`generate_index.r`) or step 6 (stale
+facilities) — run those separately afterward.

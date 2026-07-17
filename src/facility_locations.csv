@@ -1,0 +1,259 @@
+Name,Address,City,State,Zip,Geocodio Latitude,Geocodio Longitude,Geocodio Accuracy Score,Geocodio Accuracy Type,Geocodio Address Line 1,Geocodio Address Line 2,Geocodio Address Line 3,Geocodio House Number,Geocodio Street,Geocodio Unit Type,Geocodio Unit Number,Geocodio City,Geocodio State,Geocodio County,Geocodio Postal Code,Geocodio Country,Geocodio Source
+ADAMS COUNTY DET CENTER,20 HOBO FORK RD.,NATCHEZ,MS,39120,31.555529,-91.219999,1,rooftop,20 Hobo Fork Rd,,"Natchez, MS 39120",20,Hobo Fork Rd,,,Natchez,MS,Adams County,39120,US,Adams
+ADELANTO ICE PROCESSING CENTER,10250 RANCHO ROAD,ADELANTO,CA,92301,34.559429,-117.442237,1,rooftop,10250 Rancho Rd,,"Adelanto, CA 92301",10250,Rancho Rd,,,Adelanto,CA,San Bernardino County,92301,US,San Bernardino
+ALAMANCE COUNTY DETENTION FACILITY,109 SOUTH MAPLE STREET,GRAHAM,NC,27253,36.068437,-79.403684,1,rooftop,109 S Maple St,,"Graham, NC 27253",109,S Maple St,,,Graham,NC,Alamance County,27253,US,Alamance
+ALLEGANY COUNTY JAIL,4884 STATE ROUTE 19,BELMONT,NY,14813,42.212803,-78.016503,1,rooftop,4884 State Route 19,,"Belmont, NY 14813",4884,State Route 19,,,Belmont,NY,Allegany County,14813,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+ANCHORAGE CORRECTIONAL COMPLEX,1400 E. 4TH AVE,ANCHORAGE,AK,99501,61.218613,-149.855484,1,rooftop,1400 E 4th Ave,,"Anchorage, AK 99501",1400,E 4th Ave,,,Anchorage,AK,Anchorage Municipality,99501,US,Statewide AK
+ALLEN PARISH PUBLIC SAFETY COMPLEX,7340 HIGHWAY 26 WEST,OBERLIN,LA,70655,30.622443,-92.774923,1,range_interpolation,7340 Hwy 26,,"Oberlin, LA 70655",7340,Hwy 26,,,Oberlin,LA,Allen Parish,70655,US,TIGER/Line® dataset from the US Census Bureau
+BAKER COUNTY SHERIFF DEPT.,1 SHERIFF OFFICE DRIVE,MACCLENNY,FL,32063,30.29585,-82.121578,1,rooftop,1 Sheriffs Office Dr,,"Macclenny, FL 32063",1,Sheriffs Office Dr,,,Macclenny,FL,Baker County,32063,US,Baker
+SOUTH LOUISIANA ICE PROCESSING CENTER,3843 STAGG AVENUE,BASILE,LA,70515,30.486648,-92.583629,0.9,range_interpolation,3843 E Stagg Ave,,"Basile, LA 70515",3843,E Stagg Ave,,,Basile,LA,Evangeline Parish,70515,US,TIGER/Line® dataset from the US Census Bureau
+BLUEBONNET DETENTION FACILITY,400 2ND STREET,ANSON,TX,79501,32.767645,-99.888084,1,rooftop,400 2nd St,,"Anson, TX 79501",400,2nd St,,,Anson,TX,Jones County,79501,US,Statewide (CC 0 Texas Natural Resources Information System)
+BOONE COUNTY JAIL,3020 CONRAD LANE,BURLINGTON,KY,41005,39.036478,-84.72846,1,rooftop,3020 Conrad Ln,,"Burlington, KY 41005",3020,Conrad Ln,,,Burlington,KY,Boone County,41005,US,"Boone (GIS Services Division, Boone County Planning Commission)"
+ATLANTA US PEN,"601 MCDONOUGH BOULEVARD, SE",ATLANTA,GA,30315,33.709503,-84.365903,1,rooftop,601 McDonough Blvd SE,,"Atlanta, GA 30315",601,McDonough Blvd SE,,,Atlanta,GA,Fulton County,30315,US,City of Atlanta
+BERLIN FED. CORR. INST.,1 SUCCESS LOOP DR.,BERLIN,NH,3570,44.521154,-71.135765,1,rooftop,1 Success Loop Rd,,"Berlin, NH 03570",1,Success Loop Rd,,,Berlin,NH,Coos County,3570,US,Statewide NH
+BROOKLYN MDC,100 29TH STREET,BROOKLYN,NY,11232,40.659754,-74.00306,1,rooftop,100 29th St,,"Brooklyn, NY 11232",100,29th St,,,Brooklyn,NY,Kings County,11232,US,City of New York
+HONOLULU FEDERAL DETENTION CENTER,351 ELLIOTT ST.,HONOLULU,HI,96819,21.338688,-157.930399,1,rooftop,351 Elliott St,,"Honolulu, HI 96819",351,Elliott St,,,Honolulu,HI,Honolulu County,96819,US,Honolulu (City of Honolulu)
+LEAVENWORTH US PENITENTIARY,1300 METROPOLITAN AVE.,LEAVENWORTH,KS,66048,39.32985,-94.93635,1,rooftop,1300 Metropolitan Ave,,"Leavenworth, KS 66048",1300,Metropolitan Ave,,,Leavenworth,KS,Leavenworth County,66048,US,Statewide KS
+MIAMI FEDERAL DETENTION,33 NE 4 STREET,MIAMI,FL,33132,25.778461,-80.193132,1,rooftop,33 NE 4th St,,"Miami, FL 33132",33,NE 4th St,,,Miami,FL,Miami-Dade County,33132,US,Miami Dade (CC0 1.0 Miami-Dade County)
+FDC PHILADELPHIA,700 ARCH ST.,PHILADELPHIA,PA,19106,39.952533,-75.152046,1,rooftop,700 Arch St,,"Philadelphia, PA 19106",700,Arch St,,,Philadelphia,PA,Philadelphia County,19106,US,Philadelphia
+BROWARD COUNTY JAIL,555 SE 1ST AVENUE,FT.LAUDERDALE,FL,33301,26.115998,-80.141619,1,rooftop,555 SE 1st Ave,,"Fort Lauderdale, FL 33301",555,SE 1st Ave,,,Fort Lauderdale,FL,Broward County,33301,US,City of Fort Lauderdale
+BROOME COUNTY JAIL,897 FRONT STREET,BINGHAMTON,NY,13905,42.127538,-75.907343,1,range_interpolation,897 Front St,,"Binghamton, NY 13905",897,Front St,,,Binghamton,NY,Broome County,13905,US,TIGER/Line® dataset from the US Census Bureau
+BUFFALO SERVICE PROCESSING CENTER,4250 FEDERAL DRIVE,BATAVIA,NY,14020,43.021006,-78.199812,1,rooftop,4250 Federal Dr,,"Batavia, NY 14020",4250,Federal Dr,,,Batavia,NY,Genesee County,14020,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+BURLEIGH COUNTY,P.O. BOX 1416,BISMARCK,ND,58502,46.79608348,-100.7256794,1,place,PO Box 1416,,"Bismarck, ND 58502",1416,PO Box,,,Bismarck,ND,Burleigh County,58502,US,TIGER/Line® dataset from the US Census Bureau
+BUTLER COUNTY JAIL,705 HANOVER STREET,HAMILTON,OH,45011,39.389759,-84.555672,1,rooftop,705 Hanover St,,"Hamilton, OH 45011",705,Hanover St,,,Hamilton,OH,Butler County,45011,US,Butler
+MESA VERDE ICE PROCESSING CENTER,425 GOLDEN STATE AVE,BAKERSFIELD,CA,93301,35.379261,-119.00645,1,rooftop,425 Golden State Ave,,"Bakersfield, CA 93301",425,Golden State Ave,,,Bakersfield,CA,Kern County,93301,US,Kern (Kern County)
+DESERT VIEW ANNEX,10450 RANCHO ROAD,ADELANTO,CA,92301,34.559297,-117.436763,1,rooftop,10450 Rancho Rd,,"Adelanto, CA 92301",10450,Rancho Rd,,,Adelanto,CA,San Bernardino County,92301,US,San Bernardino
+CALHOUN COUNTY CORRECTIONAL CENTER,185 EAST MICHIGAN AVENUE,BATTLE CREEK,MI,49014,42.315719,-85.176527,1,range_interpolation,185 E Michigan Ave,,"Battle Creek, MI 49014",185,E Michigan Ave,,,Battle Creek,MI,Calhoun County,49014,US,TIGER/Line® dataset from the US Census Bureau
+CAROLINE DETENTION FACILITY,11093 S.W. LEWIS MEMORIAL DRIVE,BOWLING GREEN,VA,22427,38.111586,-77.267148,0.82,rooftop,11093 S W Lewis Memorial Dr,,"Bowling Green, VA 22427",11093,S W Lewis Memorial Dr,,,Bowling Green,VA,Caroline County,22427,US,Virginia Geographic Information Network (VGIN)
+CASS COUNTY JAIL,336 MAIN STREET,PLATTSMOUTH,NE,68048,41.011788,-95.882949,1,rooftop,336 Main St,,"Plattsmouth, NE 68048",336,Main St,,,Plattsmouth,NE,Cass County,68048,US,Statewide NE
+COASTAL BEND DETENTION FACILITY,4909 FM 2826,ROBSTOWN,TX,78380,27.736711,-97.754746,1,rooftop,4909 Farm To Market Rd 2826,,"Robstown, TX 78380",4909,Farm To Market Rd 2826,,,Robstown,TX,Nueces County,78380,US,Statewide (CC 0 Texas Natural Resources Information System)
+"CCA, FLORENCE CORRECTIONAL CENTER",1100 BOWLING ROAD,FLORENCE,AZ,85232,33.044083,-111.371772,0.8,rooftop,1100 N Bowling Rd,,"Florence, AZ 85132",1100,N Bowling Rd,,,Florence,AZ,Pinal County,85132,US,Pinal
+T DON HUTTO DETENTION CENTER,1001 WELCH STREET,TAYLOR,TX,76574,30.565083,-97.419699,1,rooftop,1001 Welch St,,"Taylor, TX 76574",1001,Welch St,,,Taylor,TX,Williamson County,76574,US,City of Round Rock
+NORTHEAST OHIO CORRECTIONAL CENTER,2240 HUBBARD ROAD,YOUNGSTOWN,OH,44505,41.131341,-80.631519,1,rooftop,2240 Hubbard Rd,,"Youngstown, OH 44505",2240,Hubbard Rd,,,Youngstown,OH,Mahoning County,44505,US,Mahoning
+OTAY MESA DETENTION CENTER,7488 CALZADA DE LA FUENTE,SAN DIEGO,CA,92154,32.5758861,-116.9146057,0.67,nearest_rooftop_match,7363 Calzada De Fuente,,"San Diego, CA 92154",7363,Calzada De Fuente,,,San Diego,CA,San Diego County,92154,US,San Diego Geographic Information Source - JPA
+CHASE COUNTY JAIL,301 SOUTH WALNUT STREET,COTTONWOOD FALL,KS,66845,38.367077,-96.538429,1,rooftop,301 S Walnut St,,"Cottonwood Falls, KS 66845",301,S Walnut St,,,Cottonwood Falls,KS,Chase County,66845,US,Statewide KS
+CHIPPEWA COUNTY SSM,325 COURT STREET,SAULT STE MARIE,MI,49783,46.498387,-84.345679,1,range_interpolation,325 Court St,,"Sault Sainte Marie, MI 49783",325,Court St,,,Sault Sainte Marie,MI,Chippewa County,49783,US,TIGER/Line® dataset from the US Census Bureau
+CIBOLA COUNTY CORRECTIONAL CENTER,2000 CIBOLA LOOP,MILAN,NM,87021,35.179638,-107.907698,1,rooftop,2000 Cibola Loop,,"Milan, NM 87021",2000,Cibola Loop,,,Milan,NM,Cibola County,87021,US,Statewide NM
+CLARK COUNTY JAIL (IN),501 EAST COURT AVE.,JEFFERSONVILLE,IN,47130,38.277403,-85.737,1,rooftop,501 E Court Ave,,"Jeffersonville, IN 47130",501,E Court Ave,,,Jeffersonville,IN,Clark County,47130,US,"Address Points of Indiana: Address Points Maintained by Local Government Agencies in Indiana, (Indiana Geographic Information Office, File Geodatabase, Point Feature Class)"
+CLAY COUNTY JUSTICE CENTER,611 EAST JACKSON STREET,BRAZIL,IN,47834,39.523729,-87.119076,1,rooftop,611 E Jackson St,,"Brazil, IN 47834",611,E Jackson St,,,Brazil,IN,Clay County,47834,US,"Address Points of Indiana: Address Points Maintained by Local Government Agencies in Indiana, (Indiana Geographic Information Office, File Geodatabase, Point Feature Class)"
+CLINTON COUNTY JAIL,25 MCCARTHY DRIVE,PLATTSBURGH,NY,12901,44.720019,-73.466723,1,rooftop,25 McCarthy Dr,,"Plattsburgh, NY 12901",25,McCarthy Dr,,,Plattsburgh,NY,Clinton County,12901,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+CLINTON COUNTY JAIL,301 E WALNUT STREET,FRANKFORT,IN,46041,40.279346,-86.509033,1,rooftop,301 E Walnut St,,"Frankfort, IN 46041",301,E Walnut St,,,Frankfort,IN,Clinton County,46041,US,"Address Points of Indiana: Address Points Maintained by Local Government Agencies in Indiana, (Indiana Geographic Information Office, File Geodatabase, Point Feature Class)"
+CLINTON COUNTY CORRECTIONAL FACILITY,58 PINE MOUNTAIN RD.,MCELHATTAN,PA,17748,41.151143,-77.34938,0.9,rooftop,58 Pine Mountain Rd,,"Lock Haven, PA 17745",58,Pine Mountain Rd,,,Lock Haven,PA,Clinton County,17745,US,Clinton
+COLLIER COUNTY NAPLES JAIL CENTER,3347 TAMIAMI TRAIL E,NAPLES,FL,34112,26.1297,-81.763432,1,rooftop,3347 Tamiami Trl E,,"Naples, FL 34112",3347,Tamiami Trl E,,,Naples,FL,Collier County,34112,US,Collier (Public Domain Collier County)
+CAMPBELL CO DET CTR,601 CENTRAL AVE,NEWPORT,KY,41071,39.089156,-84.497376,0.95,range_interpolation,601 Central Ave,,"Newport, KY 41071",601,Central Ave,,,Newport,KY,Campbell County,41071,US,TIGER/Line® dataset from the US Census Bureau
+NORTHWEST ICE PROCESSSING CENTER,1623 E. J STREET,TACOMA,WA,98421,47.249288,-122.421653,1,rooftop,1623 E J St,,"Tacoma, WA 98421",1623,E J St,,,Tacoma,WA,Pierce County,98421,US,City of Tacoma
+CUMBERLAND COUNTY JAIL,50 COUNTY WAY,PORTLAND,ME,4102,43.65117,-70.28184,1,rooftop,50 County Way,,"Portland, ME 04102",50,County Way,,,Portland,ME,Cumberland County,4102,US,Maine Office of GIS
+DAKOTA COUNTY JAIL,1601 BROADWAY,DAKOTA CITY,NE,68731,42.416071,-96.419792,1,rooftop,1601 Broadway St,,"Dakota City, NE 68731",1601,Broadway St,,,Dakota City,NE,Dakota County,68731,US,Statewide NE
+DALLAS COUNTY JAIL - LEW STERRETT JUSTICE CENTER,111 WEST COMMERCE STREET,DALLAS,TX,75202,32.778541,-96.814318,1,rooftop,111 W Commerce St,,"Dallas, TX 75207",111,W Commerce St,,,Dallas,TX,Dallas County,75207,US,Dallas
+DENVER CONTRACT DETENTION FACILITY,3130 OAKLAND ST,AURORA,CO,80010,39.760873,-104.84918,1,rooftop,3130 N Oakland St,,"Aurora, CO 80010",3130,N Oakland St,,,Aurora,CO,Adams County,80010,US,Adams
+DELANEY HALL DETENTION FACILITY,451 DOREMUS AVENUE,NEWARK,NJ,7105,40.717813,-74.127639,1,rooftop,451 Doremus Ave,,"Newark, NJ 07105",451,Doremus Ave,,,Newark,NJ,Essex County,7105,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+DODGE COUNTY JAIL,215 WEST CENTRAL STREET,JUNEAU,WI,53039,43.372221,-88.710157,0.5,place,,,"Juneau, WI 53039",,,,,Juneau,WI,Dodge County,53039,US,TIGER/Line® dataset from the US Census Bureau
+ELOY FEDERAL CONTRACT FACILITY,1705 EAST HANNA RD.,ELOY,AZ,85131,32.817595,-111.522377,1,rooftop,1705 E Hanna Rd,,"Eloy, AZ 85131",1705,E Hanna Rd,,,Eloy,AZ,Pinal County,85131,US,Pinal
+EDEN DETENTION CTR,702 E BROADWAY ST,EDEN,TX,76837,31.21662,-99.834003,1,rooftop,702 E Broadway St,,"Eden, TX 76837",702,E Broadway St,,,Eden,TX,Concho County,76837,US,Statewide Partial
+EAST HIDALGO DETENTION CENTER,1330 HIGHWAY 107,LA VILLA,TX,78562,26.294017,-97.918988,0.7,nearest_rooftop_match,1305 E Highway 107,,"La Villa, TX 78562",1305,E Highway 107,,,La Villa,TX,Hidalgo County,78562,US,Statewide Partial
+EL VALLE DETENTION FACILITY,1800 INDUSTRIAL DRIVE,RAYMONDVILLE,TX,78580,26.467284,-97.761644,1,rooftop,1800 Industrial Dr,,"Raymondville, TX 78580",1800,Industrial Dr,,,Raymondville,TX,Willacy County,78580,US,Statewide (CC 0 Texas Natural Resources Information System)
+ELIZABETH CONTRACT DETENTION FACILITY,625 EVANS STREET,ELIZABETH,NJ,7201,40.666175,-74.188848,1,range_interpolation,625 Evans St,,"Elizabeth, NJ 07201",625,Evans St,,,Elizabeth,NJ,Union County,7201,US,TIGER/Line® dataset from the US Census Bureau
+EL PASO SERVICE PROCESSING CENTER,8915 MONTANA AVE.,EL PASO,TX,79925,31.793762,-106.369208,1,rooftop,8915 Montana Ave,,"El Paso, TX 79925",8915,Montana Ave,,,El Paso,TX,El Paso County,79925,US,Statewide (CC 0 Texas Natural Resources Information System)
+EL PASO SOFT SIDED FACILITY,12501 GATEWAY BLVD S,EL PASO,TX,79934,31.808211,-106.442803,0.65,street_center,Gateway Blvd S,,"El Paso, TX 79930",,Gateway Blvd S,,,El Paso,TX,El Paso County,79930,US,TIGER/Line® dataset from the US Census Bureau
+ERIE COUNTY JAIL,DEPARTMENT OF CORRECTIONS 1618 ASH STREET,ERIE,PA,16503,42.124733,-80.065949,1,range_interpolation,1618 Ash St,,"Erie, PA 16503",1618,Ash St,,,Erie,PA,Erie County,16503,US,TIGER/Line® dataset from the US Census Bureau
+ETOWAH COUNTY JAIL (ALABAMA),827 FORREST AVENUE,GADSDEN,AL,35901,34.016468,-86.012404,1,rooftop,827 Forrest Ave,,"Gadsden, AL 35901",827,Forrest Ave,,,Gadsden,AL,Etowah County,35901,US,Etowah
+FAYETTE COUNTY DETENTION CENTER,600 OLD FRANKFORD CR,LEXINGTON,KY,40510,38.065632,-84.545141,1,rooftop,600 Old Frankfort Cir,,"Lexington, KY 40510",600,Old Frankfort Cir,,,Lexington,KY,Fayette County,40510,US,Lexington Fayette (Public Domain)
+FINNEY COUNTY JAIL,304 N. 9TH STREET,GARDEN CITY,KS,67846,37.967505,-100.876101,1,rooftop,304 N 9th St,,"Garden City, KS 67846",304,N 9th St,,,Garden City,KS,Finney County,67846,US,Statewide KS
+FOLKSTON ANNEX IPC,3424 HIGHWAY 252 EAST,FOLKSTON,GA,31537,30.838002,-81.999781,0.7,street_center,State Rte 252,,"Folkston, GA 31537",,State Rte 252,,,Folkston,GA,Charlton County,31537,US,TIGER/Line® dataset from the US Census Bureau
+FOLKSTON MAIN IPC,3026 HWY 252 EAST,FOLKSTON,GA,31537,30.838002,-81.999781,0.7,street_center,State Rte 252,,"Folkston, GA 31537",,State Rte 252,,,Folkston,GA,Charlton County,31537,US,TIGER/Line® dataset from the US Census Bureau
+FLORENCE SERVICE PROCESSING CENTER,3250 NORTH PINAL PARKWAY,FLORENCE,AZ,85132,33.063608,-111.379047,1,range_interpolation,3250 N Pinal Pkwy,,"Florence, AZ 85132",3250,N Pinal Pkwy,,,Florence,AZ,Pinal County,85132,US,TIGER/Line® dataset from the US Census Bureau
+FLOYD COUNTY JAIL,2526 NEW CALHOUN HWY,ROME,GA,30161,34.280012,-85.141532,1,rooftop,2526 New Calhoun Hwy,,"Rome, GA 30161",2526,New Calhoun Hwy,,,Rome,GA,Floyd County,30161,US,Floyd
+FREEBORN COUNTY ADULT DETENTION CENTER,411 SOUTH BROADWAY AVENUE,ALBERT LEA,MN,56007,43.646149,-93.368026,1,rooftop,411 Broadway Ave S,,"Albert Lea, MN 56007",411,Broadway Ave S,,,Albert Lea,MN,Freeborn County,56007,US,Freeborn
+PRINCE EDWARD COUNTY (FARMVILLE),508 WATERWORKS ROAD,FARMVILLE,VA,23901,37.32058,-78.440928,1,rooftop,508 Water Works Rd,,"Farmville, VA 23901",508,Water Works Rd,,,Farmville,VA,Prince Edward County,23901,US,Virginia Geographic Information Network (VGIN)
+FLORENCE STAGING FACILITY,3250 NORTH PINAL PARKWAY,FLORENCE,AZ,85232,33.063608,-111.379047,0.9,range_interpolation,3250 N Pinal Pkwy,,"Florence, AZ 85132",3250,N Pinal Pkwy,,,Florence,AZ,Pinal County,85132,US,TIGER/Line® dataset from the US Census Bureau
+GEAUGA COUNTY JAIL,12450 MERRITT DR,CHARDON,OH,44024,41.504957,-81.192105,1,rooftop,12450 Merritt Rd,,"Chardon, OH 44024",12450,Merritt Rd,,,Chardon,OH,Geauga County,44024,US,Geauga
+GRAND FORKS COUNTY CORRECTIONAL FACILITY,1701 NORTH WASHINGTON ST,GRAND FORKS,ND,58203,47.935496,-97.057652,1,rooftop,1701 N Washington St,,"Grand Forks, ND 58203",1701,N Washington St,,,Grand Forks,ND,Grand Forks County,58203,US,City of Grand Forks
+GLADES COUNTY DETENTION CENTER,1297 EAST SR 78,MOORE HAVEN,FL,33471,26.837956,-81.122891,0.88,rooftop,1297 E State Road 78,,"Moore Haven, FL 33471",1297,E State Road 78,,,Moore Haven,FL,Glades County,33471,US,Glades
+GOLDEN STATE ANNEX,611 FRONTAGE RD,MCFARLAND,CA,93250,35.66774,-119.226292,1,rooftop,611 Frontage Rd,,"Mc Farland, CA 93250",611,Frontage Rd,,,Mc Farland,CA,Kern County,93250,US,Kern (Kern County)
+GRAYSON COUNTY JAIL,320 SHAW STATION ROAD,LEITCHFIELD,KY,42754,37.489142,-86.270203,1,rooftop,320 Shaw Station Rd,,"Leitchfield, KY 42754",320,Shaw Station Rd,,,Leitchfield,KY,Grayson County,42754,US,Statewide KY
+GREENE COUNTY JAIL,1199 N HASELTINE RD,SPRINGFIELD,MO,65802,37.224646,-93.386173,1,rooftop,1199 N Haseltine Rd,,"Springfield, MO 65802",1199,N Haseltine Rd,,,Springfield,MO,Greene County,65802,US,Greene
+JTF CAMP SIX,AVENUE C PSC 1005 BOX 55,FPO,FL,34009,19.90915207,-75.0975594,0,,,,,Could not geocode address. No matches found.,,,,,,,,,
+MIGRANT OPS CENTER MAIN A,AVENUE C PSC 1005 BOX 55,FPO,FL,34009,19.90915207,-75.0975594,0,,,,,Could not geocode address. No matches found.,,,,,,,,,
+DEPARTMENT OF CORRECTIONS HAGATNA,203 ASPINAL AVE. PO BOX 3236,HAGATNA,GU,96910,13.472745,144.752018,0.5,place,,,"Hagatna, GU 96910",,,,,Hagatna,GU,Guam,96910,US,TIGER/Line® dataset from the US Census Bureau
+HARDIN COUNTY JAIL,1116 14TH AVENUE,ELDORA,IA,50627,42.359829,-93.09744,1,rooftop,1116 14th Ave,,"Eldora, IA 50627",1116,14th Ave,,,Eldora,IA,Hardin County,50627,US,Hardin (Public Domain)
+HANCOCK COUNTY PUBLIC SAFETY COMPLEX,8450 HIGHWAY 90,BAY ST. LOUIS,MS,39520,30.30278,-89.476802,1,rooftop,8450 Hwy 90,,"Bay Saint Louis, MS 39520",8450,Hwy 90,,,Bay Saint Louis,MS,Hancock County,39520,US,Hancock
+HENDERSON DETENTION,18 E BASIC ROAD,HENDERSON,NV,89015,36.030591,-114.979471,1,rooftop,18 E Basic Rd,,"Henderson, NV 89015",18,E Basic Rd,,,Henderson,NV,Clark County,89015,US,Henderson
+HOUSTON CONTRACT DETENTION FACILITY,15850 EXPORT PLAZA DRIVE,HOUSTON,TX,77032,29.950538,-95.312224,1,rooftop,15850 Export Plaza Dr,,"Houston, TX 77032",15850,Export Plaza Dr,,,Houston,TX,Harris County,77032,US,City of Houston
+HOPKINS COUNTY JAIL,2250 LAFOON TRAIL,MADISONVILLE,KY,42431,37.337594,-87.539933,1,rooftop,2250 Laffoon Trl,,"Madisonville, KY 42431",2250,Laffoon Trl,,,Madisonville,KY,Hopkins County,42431,US,Statewide KY
+IMPERIAL REGIONAL DETENTION FACILITY,1572 GATEWAY,CALEXICO,CA,92231,32.69035034,-115.3975256,0.42,nearest_rooftop_match,1396 W Cady Rd,,"Brawley, CA 92227",1396,W Cady Rd,,,Brawley,CA,Imperial County,92227,US,Imperial (Imperial County)
+JOE CORLEY PROCESSING CTR,500 HILBIG RD,CONROE,TX,77301,30.336867,-95.449293,1,rooftop,500 Hilbig Rd,,"Conroe, TX 77301",500,Hilbig Rd,,,Conroe,TX,Montgomery County,77301,US,Montgomery
+JEFFERSON COUNTY JAIL,219 EAST FREMONT AVENUE,RIGBY,ID,83442,43.67345,-111.911201,1,rooftop,219 E Fremont Ave,,"Rigby, ID 83442",219,E Fremont Ave,,,Rigby,ID,Jefferson County,83442,US,Jefferson
+CENTRAL LOUISIANA ICE PROCESSING CENTER (CLIPC),830 PINEHILL ROAD,JENA,LA,71342,31.708242,-92.150708,1,range_interpolation,830 Pinehill Rd,,"Jena, LA 71342",830,Pinehill Rd,,,Jena,LA,Lasalle Parish,71342,US,TIGER/Line® dataset from the US Census Bureau
+ALEXANDRIA STAGING FACILITY,96 GEORGE THOMPSON DR.,ALEXANDRIA,LA,71303,31.317925,-92.536645,1,rooftop,96 George Thompson Dr,,"Alexandria, LA 71303",96,George Thompson Dr,,,Alexandria,LA,Rapides Parish,71303,US,Rapides
+JACKSON PARISH CORRECTIONAL CENTER,327 INDUSTRIAL DRIVE,JONESBORO,LA,71251,32.215777,-92.717318,1,range_interpolation,327 Industrial Dr,,"Jonesboro, LA 71251",327,Industrial Dr,,,Jonesboro,LA,Jackson Parish,71251,US,TIGER/Line® dataset from the US Census Bureau
+KANDIYOHI COUNTY JAIL,2201 23RD ST NE,WILLMAR,MN,56201,45.14671,-95.014442,1,rooftop,2201 23rd St NE,,"Willmar, MN 56201",2201,23rd St NE,,,Willmar,MN,Kandiyohi County,56201,US,Kandiyohi
+KAY CO JUSTICE FACILITY,1101 WEST DRY ROAD,NEWKIRK,OK,74647,36.86812947,-97.06921574,0.7,street_center,W Dry Rd,,"Newkirk, OK 74647",,W Dry Rd,,,Newkirk,OK,Kay County,74647,US,TIGER/Line® dataset from the US Census Bureau
+KENTON COUNTY JAIL,3000 DECKER CRANE LANE,COVINGTON,KY,41017,39.002475,-84.530509,1,rooftop,3000 Decker Crane Ln,,"Covington, KY 41017",3000,Decker Crane Ln,,,Covington,KY,Kenton County,41017,US,Kenton
+KNOX COUNTY DETENTION FACILITY,5001 MALONEYVILLE RD,KNOXVILLE,TN,37918,36.085017,-83.84114,1,rooftop,5001 Maloneyville Rd,,"Knoxville, TN 37918",5001,Maloneyville Rd,,,Knoxville,TN,Knox County,37918,US,Statewide TN
+KARNES COUNTY IMMIGRATION PROCESSING CENTER,409 FM 1144,KARNES CITY,TX,78118,28.885513,-97.915467,1,rooftop,409 Farm To Market Rd 1144,,"Karnes City, TX 78118",409,Farm To Market Rd 1144,,,Karnes City,TX,Karnes County,78118,US,Statewide TX
+KROME NORTH SERVICE PROCESSING CENTER,18201 SW 12TH ST,MIAMI,FL,33194,25.754769,-80.490569,1,rooftop,18201 SW 12th St,,"Miami, FL 33194",18201,SW 12th St,,,Miami,FL,Miami-Dade County,33194,US,Miami Dade (CC0 1.0 Miami-Dade County)
+LAKE COUNTY JAIL,551 W. MAIN ST.,TAVARES,FL,32778,28.801877,-81.732961,1,rooftop,551 W Main St,,"Tavares, FL 32778",551,W Main St,,,Tavares,FL,Lake County,32778,US,Lake (Public Domain Lake County)
+LA PAZ COUNTY ADULT DETENTION FACILITY,1109 ARIZONA AVE.,PARKER,AZ,85344,34.1459,-114.2901,1,rooftop,1109 Arizona Ave,,"Parker, AZ 85344",1109,Arizona Ave,,,Parker,AZ,LA Paz County,85344,US,Statewide AZ
+LAUREL COUNTY CORRECTIONAL CENTER,440 HAMMOCK ROAD,LONDON,KY,40744,37.057154,-84.071378,1,rooftop,440 Hammock Rd,,"London, KY 40744",440,Hammock Rd,,,London,KY,Laurel County,40744,US,Statewide KY
+WINN CORRECTIONAL CENTER,560 GUM SPRING ROAD,WINNFIELD,LA,71483,31.809211,-92.744735,0.7,street_center,Gum Springs Rd,,"Winnfield, LA 71483",,Gum Springs Rd,,,Winnfield,LA,Winn Parish,71483,US,TIGER/Line® dataset from the US Census Bureau
+LEXINGTON COUNTY JAIL,521 GIBSON ROAD,LEXINGTON,SC,29072,33.979261,-81.250446,1,rooftop,521 Gibson Rd,,"Lexington, SC 29072",521,Gibson Rd,,,Lexington,SC,Lexington County,29072,US,Lexington
+LIMESTONE COUNTY DETENTION CENTER,910 NORTH TYUS STREET,GROESBECK,TX,76642,31.527512,-96.514703,1,rooftop,910 N Tyus St,,"Groesbeck, TX 76642",910,N Tyus St,,,Groesbeck,TX,Limestone County,76642,US,Statewide (CC 0 Texas Natural Resources Information System)
+LINCOLN COUNTY JAIL,3020 N JEFFERS,NORTH PLATTE,NE,69101,41.14411,-100.761676,0.7,street_center,N Jeffers St,,"North Platte, NE 69101",,N Jeffers St,,,North Platte,NE,Lincoln County,69101,US,TIGER/Line® dataset from the US Census Bureau
+LINN COUNTY JAIL,53 3RD AVENUE BRIDGE,CEDAR RAPIDS,IA,52401,41.975244,-91.670069,1,range_interpolation,53 3rd Avenue Brg,,"Cedar Rapids, IA 52401",53,3rd Avenue Brg,,,Cedar Rapids,IA,Linn County,52401,US,TIGER/Line® dataset from the US Census Bureau
+LAREDO PROCESSING CENTER,4702 EAST SAUNDERS STREET,LAREDO,TX,78041,27.529261,-99.448509,1,rooftop,4702 E Saunders St,,"Laredo, TX 78041",4702,E Saunders St,,,Laredo,TX,Webb County,78041,US,Statewide (CC 0 Texas Natural Resources Information System)
+LA SALLE COUNTY REGIONAL DETENTION CENTER,832 EAST TEXAS STATE HIGHWAY 44,ENCINAL,TX,78019,28.045504,-99.336329,1,rooftop,832 E Texas State 44,,"Encinal, TX 78019",832,E Texas State 44,,,Encinal,TX,La Salle County,78019,US,Statewide (CC 0 Texas Natural Resources Information System)
+LUBBOCK COUNTY DETENTION CENTER,811 MAIN STREET,LUBBOCK,TX,79401,33.585346,-101.843766,1,rooftop,811 Main St,,"Lubbock, TX 79401",811,Main St,,,Lubbock,TX,Lubbock County,79401,US,Lubbock
+MADISON COUNTY JAIL,2935 HIGHWAY 51,CANTON,MS,39046,32.643209,-90.023299,1,range_interpolation,2935 US-51,,"Canton, MS 39046",2935,US-51,,,Canton,MS,Madison County,39046,US,TIGER/Line® dataset from the US Census Bureau
+MAHONING COUNTY JAIL,110 FIFTH AVENUE,YOUNGSTOWN,OH,44503,41.104258,-80.655055,1,rooftop,110 5th Ave,,"Youngstown, OH 44503",110,5th Ave,,,Youngstown,OH,Mahoning County,44503,US,Mahoning
+MARION COUNTY JAIL,695 JUSTICE WAY,INDIANAPOLIS,IN,46203,39.752767,-86.115896,1,rooftop,695 Justice Way,,"Indianapolis, IN 46203",695,Justice Way,,,Indianapolis,IN,Marion County,46203,US,Marion
+MILLER COUNTY JAIL,2300 EAST STREET,TEXARKANA,AR,71854,33.401175,-94.022482,1,rooftop,2300 East St,,"Texarkana, AR 71854",2300,East St,,,Texarkana,AR,Miller County,71854,US,Arkansas Geographic Information Office
+MINNEHAHA COUNTY JAIL,500 NORTH MINNESOTA AVENUE,SIOUX FALLS,SD,57104,43.552675,-96.730544,1,rooftop,500 N Minnesota Ave,,"Sioux Falls, SD 57104",500,N Minnesota Ave,,,Sioux Falls,SD,Minnehaha County,57104,US,City of Sioux Falls
+MONROE COUNTY DETENTION-DORM,7000 EAST DUNBAR ROAD,MONROE,MI,48161,41.895571,-83.393282,1,rooftop,7000 E Dunbar Rd,,"Monroe, MI 48161",7000,E Dunbar Rd,,,Monroe,MI,Monroe County,48161,US,Semcog
+MONTGOMERY COUNTY JAIL,PARK STREET,FONDA,NY,12068,42.952646,-74.375827,1,street_center,Park St,,"Fonda, NY 12068",,Park St,,,Fonda,NY,Montgomery County,12068,US,TIGER/Line® dataset from the US Census Bureau
+SAIPAN DEPARTMENT OF CORRECTIONS (SUSUPE),"VICENTE T. SEMAN BLDG, CIVIC CENTER",SAIPAN,MP,96950,15.190983,145.746743,1,place,,,"Saipan, MP 96950",,,,,Saipan,MP,Saipan Municipality,96950,US,TIGER/Line® dataset from the US Census Bureau
+MIAMI STAGING FACILITY,UNAVAILABLE,MIAMI,FL,33101,25.779298,-80.198739,1,place,,,"Miami, FL 33101",,,,,Miami,FL,Miami-Dade County,33101,US,TIGER/Line® dataset from the US Census Bureau
+MOSHANNON VALLEY PROCESSING CENTER,555 GEO DRIVE,PHILIPSBURG,PA,16866,40.922608,-78.241697,1,rooftop,555 Geo Dr,,"Philipsburg, PA 16866",555,Geo Dr,,,Philipsburg,PA,Clearfield County,16866,US,Clearfield
+MONTGOMERY ICE PROCESSING CENTER,806 HILBIG RD,CONROE,TX,77301,30.337099,-95.443385,1,rooftop,806 Hilbig Rd,,"Conroe, TX 77301",806,Hilbig Rd,,,Conroe,TX,Montgomery County,77301,US,Montgomery
+MUSCATINE COUNTY JAIL,400 WALNUT STREET,MUSCATINE,IA,52761,41.424334,-91.044646,1,rooftop,400 Walnut St,,"Muscatine, IA 52761",400,Walnut St,,,Muscatine,IA,Muscatine County,52761,US,Muscatine Area Geographic Information Consortium Magic
+NASSAU COUNTY CORRECTIONAL CENTER,100 CARMAN AVENUE,EAST MEADOW,NY,11554,40.735155,-73.552695,1,rooftop,100 Carman Ave,,"East Meadow, NY 11554",100,Carman Ave,,,East Meadow,NY,Nassau County,11554,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+NIAGARA COUNTY JAIL,5526 NIAGARA STREET EXTENTION,LOCKPORT,NY,14094,43.180294,-78.737324,1,rooftop,5526 Niagara Street Ext,,"Lockport, NY 14094",5526,Niagara Street Ext,,,Lockport,NY,Niagara County,14094,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+NORTH LAKE CORRECTIONAL FACILITY,1805 W 32ND ST,BALDWIN,MI,49304,43.929498,-85.832058,1,range_interpolation,1805 W 32nd St,,"Baldwin, MI 49304",1805,W 32nd St,,,Baldwin,MI,Lake County,49304,US,TIGER/Line® dataset from the US Census Bureau
+NEVADA SOUTHERN DETENTION CENTER,2190 EAST MESQUITE AVENUE,PAHRUMP,NV,89060,36.249613,-115.975134,1,rooftop,2190 E Mesquite Ave,,"Pahrump, NV 89060",2190,E Mesquite Ave,,,Pahrump,NV,Nye County,89060,US,Nye
+NEW HANOVER COUNTY JAIL,3950 JUVENILE RD,CASTLE HAYNE,NC,28429,34.326678,-77.896008,0.9,rooftop,3950 Juvenile Center Rd,,"Castle Hayne, NC 28429",3950,Juvenile Center Rd,,,Castle Hayne,NC,New Hanover County,28429,US,New Hanover
+NORTHWEST REGIONAL CORRECTIONS CENTER,"816 MARIN AVE., SUITE 110",CROOKSTON,MN,56716,47.768853,-96.628509,1,rooftop,816 Marin Ave,Ste 110,"Crookston, MN 56716",816,Marin Ave,Ste,110,Crookston,MN,Polk County,56716,US,Statewide MN
+CORR. CTR OF NORTHWEST OHIO,"3151 ROAD 24.25, ROUTE 1",STRYKER,OH,43557,41.518349,-83.884,0.75,nearest_rooftop_match,3161 County Rd 1,,"Swanton, OH 43558",3161,County Rd 1,,,Swanton,OH,Fulton County,43558,US,Fulton
+CIMMARRON CORR FACILITY,3700 S. KINGS HWY,CUSHING,OK,74023,35.973592,-96.784917,0.7,street_center,S Kings Hwy,,"Cushing, OK 74023",,S Kings Hwy,,,Cushing,OK,Payne County,74023,US,TIGER/Line® dataset from the US Census Bureau
+OLDHAM COUNTY DETENTION CENTER,3405 W HWY 146,LA GRANGE,KY,40031,38.388995,-85.423035,1,rooftop,3405 W 146,,"La Grange, KY 40031",3405,W 146,,,La Grange,KY,Oldham County,40031,US,Oldham
+ORANGE COUNTY JAIL (FL),3855 SOUTH JOHN YOUNG PARKWAY,ORLANDO,FL,32839,28.50353,-81.416856,1,rooftop,3855 S John Young Pkwy,,"Orlando, FL 32839",3855,S John Young Pkwy,,,Orlando,FL,Orange County,32839,US,Orange County (Public Domain Orange County)
+ORANGE COUNTY JAIL (NY),110 WELLS FARM ROAD,GOSHEN,NY,10924,41.40424,-74.360625,1,rooftop,110 Wells Farm Rd,,"Goshen, NY 10924",110,Wells Farm Rd,,,Goshen,NY,Orange County,10924,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+OTERO COUNTY PROCESSING CENTER,26 MCGREGOR RANGE ROAD,CHAPARRAL,NM,88081,32.080372,-106.281726,1,rooftop,26 McGregor Range Rd,,"Chaparral, NM 88081",26,McGregor Range Rd,,,Chaparral,NM,Otero County,88081,US,Statewide NM
+OZARK COUNTY SHERIFF'S OFFICE,1818 COUNTY ROAD 806,GAINESVILLE,MO,65655,36.598747,-92.445448,0.7,street_center,Old Hwy 160,,"Gainesville, MO 65655",,Old Hwy 160,,,Gainesville,MO,Ozark County,65655,US,TIGER/Line® dataset from the US Census Bureau
+PICKENS COUNTY DET CTR,188 CEMETERY ST,CARROLLTON,AL,35447,33.229886,-88.25614,0.88,range_interpolation,188 Old Carrollton Rd,,"Pickensville, AL 35447",188,Old Carrollton Rd,,,Pickensville,AL,Pickens County,35447,US,TIGER/Line® dataset from the US Census Bureau
+PENNINGTON COUNTY JAIL (SOUTH DAKOTA),300 KANSAS CITY STREET NONE,RAPID CITY,SD,57701,44.078308,-103.222002,1,rooftop,300 Kansas City St,,"Rapid City, SD 57701",300,Kansas City St,,,Rapid City,SD,Pennington County,57701,US,Statewide SD
+PHELPS COUNTY JAIL (MO),301 W. 2ND,ROLLA,MO,65401,37.945521,-91.772638,1,range_interpolation,301 W 2nd St,,"Rolla, MO 65401",301,W 2nd St,,,Rolla,MO,Phelps County,65401,US,TIGER/Line® dataset from the US Census Bureau
+PHELPS COUNTY JAIL (NE),715 5TH AVENUE,HOLDREGE,NE,68949,40.4395,-99.370609,1,rooftop,715 5th Ave,,"Holdrege, NE 68949",715,5th Ave,,,Holdrege,NE,Phelps County,68949,US,Phelps
+PORT ISABEL SPC,27991 BUENA VISTA BOULEVARD,LOS FRESNOS,TX,78566,26.148689,-97.350707,0.7,street_center,Buena Vista Blvd,,"Los Fresnos, TX 78566",,Buena Vista Blvd,,,Los Fresnos,TX,Cameron County,78566,US,TIGER/Line® dataset from the US Census Bureau
+PIKE COUNTY JAIL,175 PIKE COUNTY BOULEVARD,LORDS VALLEY,PA,18428,41.389076,-75.071227,1,rooftop,175 Pike County Blvd,,"Hawley, PA 18428",175,Pike County Blvd,,,Hawley,PA,Pike County,18428,US,Pike
+PINELLAS COUNTY JAIL,14400 49TH STREET NORTH,CLEARWATER,FL,33762,27.90291,-82.70428,1,rooftop,14400 49th St N,,"Clearwater, FL 33762",14400,49th St N,,,Clearwater,FL,Pinellas County,33762,US,City of Pinellas Park
+PINE PRAIRIE ICE PROCESSING CENTER,1133 HAMPTON DUPRE ROAD,PINE PRAIRIE,LA,70576,30.788221,-92.412663,1,range_interpolation,1133 Hampton Dupre Rd,,"Pine Prairie, LA 70576",1133,Hampton Dupre Rd,,,Pine Prairie,LA,Evangeline Parish,70576,US,TIGER/Line® dataset from the US Census Bureau
+PLYMOUTH COUNTY CORRECTIONAL FACILITY,26 LONG POND ROAD,PLYMOUTH,MA,2360,41.931309,-70.651334,1,rooftop,26 Long Pond Rd,,"Plymouth, MA 02360",26,Long Pond Rd,,,Plymouth,MA,Plymouth County,2360,US,"Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT"
+IAH SECURE ADULT DETENTION FACILITY (POLK),3400 FM 350 SOUTH,LIVINGSTON,TX,77351,30.696239,-95.005673,1,rooftop,3400 Farm To Market Rd 350 S,,"Livingston, TX 77351",3400,Farm To Market Rd 350 S,,,Livingston,TX,Polk County,77351,US,Statewide Partial
+POLK COUNTY JAIL,1985 NE 51ST PLACE,DES MOINES,IA,50313,41.653628,-93.587896,1,rooftop,1985 NE 51st Pl,,"Des Moines, IA 50313",1985,NE 51st Pl,,,Des Moines,IA,Polk County,50313,US,Statewide IA
+POTTAWATTAMIE COUNTY JAIL,1400 BIG LAKE ROAD,COUNCIL BLUFFS,IA,51501,41.284812,-95.865373,1,rooftop,1400 Big Lake Rd,,"Council Bluffs, IA 51501",1400,Big Lake Rd,,,Council Bluffs,IA,Pottawattamie County,51501,US,Pottawattamie (Public Domain)
+PRAIRIELAND DETENTION CENTER,1209 SUNFLOWER LN,ALVARADO,TX,76009,32.421413,-97.195828,1,rooftop,1209 Sunflower Ln,,"Alvarado, TX 76009",1209,Sunflower Ln,,,Alvarado,TX,Johnson County,76009,US,Statewide (CC 0 Texas Natural Resources Information System)
+PUTNAM COUNTY SHERIFF,421 E SPRING ST.,COOKEVILLE,TN,38501,36.161537,-85.497961,1,rooftop,421 E Spring St,,"Cookeville, TN 38501",421,E Spring St,,,Cookeville,TN,Putnam County,38501,US,Putnam
+RIO GRANDE DETENTION CENTER,1001 SAN RIO BOULEVARD,LAREDO,TX,78046,27.379743,-99.489085,1,rooftop,1001 San Rio Blvd,,"Laredo, TX 78046",1001,San Rio Blvd,,,Laredo,TX,Webb County,78046,US,Statewide (CC 0 Texas Natural Resources Information System)
+RIVER CORRECTIONAL CENTER,26362 HIGHWAY 15,FERRIDAY,LA,71334,31.597144,-91.557948,1,rooftop,26362 Hwy 15,,"Ferriday, LA 71334",26362,Hwy 15,,,Ferriday,LA,Concordia Parish,71334,US,Concordia
+RICHWOOD CORRECTIONAL CENTER,180 PINE BAYOU CIRCLE,MONROE,LA,71202,32.458519,-92.079595,1,range_interpolation,180 Pine Bayou Cir,,"Monroe, LA 71202",180,Pine Bayou Cir,,,Monroe,LA,Ouachita Parish,71202,US,TIGER/Line® dataset from the US Census Bureau
+SARPY COUNTY JAIL,1208 GOLDEN GATE DRIVE,PAPILLION,NE,68046,41.14149,-96.041853,1,rooftop,1208 Golden Gate Dr,,"Papillion, NE 68046",1208,Golden Gate Dr,,,Papillion,NE,Sarpy County,68046,US,Sarpy
+SAUK COUNTY SHERIFF,1300 LANGE CT.,BARABOO,WI,53913,43.461592,-89.767236,1,rooftop,1300 Lange Ct,,"Baraboo, WI 53913",1300,Lange Ct,,,Baraboo,WI,Sauk County,53913,US,Sauk
+SEBASTIAN COUNTY DETENTION CENTER,801 SOUTH A STREET,FORT SMITH,AR,72901,35.382509,-94.42505,1,rooftop,801 S A St,,"Fort Smith, AR 72901",801,S A St,,,Fort Smith,AR,Sebastian County,72901,US,Arkansas Geographic Information Office
+SENECA COUNTY JAIL,3040 SOUTH STATE HIGHWAY 100,TIFFIN,OH,44883,41.079828,-83.152919,1,rooftop,3040 S Sr 100,,"Tiffin, OH 44883",3040,S Sr 100,,,Tiffin,OH,Seneca County,44883,US,Seneca
+SHERBURNE COUNTY JAIL,13880 BUSINESS CENTER DRIVE,ELK RIVER,MN,55330,45.304053,-93.619356,1,rooftop,13880 Business Center Dr NW,,"Elk River, MN 55330",13880,Business Center Dr NW,,,Elk River,MN,Sherburne County,55330,US,Sherburne
+SAN JUAN STAGING,"651 FEDERAL DRIVE, SUITE 104",GUAYNABO,PR,965,18.433757,-66.114752,0.5,place,,,"Guaynabo, PR 00965",,,,,Guaynabo,PR,Guaynabo Municipio,965,US,TIGER/Line® dataset from the US Census Bureau
+SAN LUIS REGIONAL DETENTION CENTER,406 NORTH AVENUE D,SAN LUIS,AZ,85349,32.484666,-114.684637,1,rooftop,406 N Ave D,,"San Luis, AZ 85349",406,N Ave D,,,San Luis,AZ,Yuma County,85349,US,Statewide AZ
+SALT LAKE COUNTY METRO JAIL,3415 SOUTH 900 WEST,SALT LAKE CITY,UT,84119,40.696919,-111.915542,1,rooftop,3415 S 900 W,,"South Salt Lake, UT 84119",3415,S 900 W,,,South Salt Lake,UT,Salt Lake County,84119,US,Utah AGRC (and individual UT counties)
+SOUTH TEXAS ICE PROCESSING CENTER,566 VETERANS DRIVE,PEARSALL,TX,78061,28.895694,-99.120202,1,rooftop,566 Veterans Dr,,"Pearsall, TX 78061",566,Veterans Dr,,,Pearsall,TX,Frio County,78061,US,Statewide Partial
+ST. CLAIR COUNTY JAIL,1170 MICHIGAN ROAD,PORT HURON,MI,48060,42.942306,-82.479438,1,rooftop,1170 Michigan Rd,,"Port Huron, MI 48060",1170,Michigan Rd,,,Port Huron,MI,St. Clair County,48060,US,Semcog
+DILLEY IMMIGRATION PROCESSING CENTER,300 EL RANCHO WAY,DILLEY,TX,78017,28.658454,-99.200878,1,rooftop,300 El Rancho Way,,"Dilley, TX 78017",300,El Rancho Way,,,Dilley,TX,Frio County,78017,US,Statewide TX
+STE. GENEVIEVE COUNTY SHERIFF-JAIL,5 BASLER DR.,STE. GENEVIEVE,MO,63670,37.96562235,-90.05540283,1,range_interpolation,5 Basler Dr,Ste GENEVIEVE,"Sainte Genevieve, MO 63670",5,Basler Dr,Ste,GENEVIEVE,Sainte Genevieve,MO,Ste. Genevieve County,63670,US,TIGER/Line® dataset from the US Census Bureau
+STRAFFORD COUNTY CORRECTIONS,266 COUNTY FARM ROAD,DOVER,NH,3820,43.219176,-70.938666,1,range_interpolation,266 County Farm Rd,,"Dover, NH 03820",266,County Farm Rd,,,Dover,NH,Strafford County,3820,US,TIGER/Line® dataset from the US Census Bureau
+STEWART DETENTION CENTER,146 CCA ROAD,LUMPKIN,GA,31815,32.039122,-84.770133,0.7,street_center,Cca Rd,,"Lumpkin, GA 31815",,Cca Rd,,,Lumpkin,GA,Stewart County,31815,US,TIGER/Line® dataset from the US Census Bureau
+SWEETWATER COUNTY JAIL,50140 UNITED STATES HIGHWAY 191 SOUTH,ROCK SPRINGS,WY,82935,41.53817479,-109.2985447,0.57,street_center,Spring View Dr,,"Green River, WY 82935",,Spring View Dr,,,Green River,WY,Sweetwater County,82935,US,TIGER/Line® dataset from the US Census Bureau
+TWO BRIDGES REGIONAL JAIL,522 BATH RD,WISCASSET,ME,4578,43.978373,-69.698718,1,rooftop,522 Bath Rd,,"Wiscasset, ME 04578",522,Bath Rd,,,Wiscasset,ME,Lincoln County,4578,US,Maine Office of GIS
+TOOELE COUNTY JAIL,47 SOUTH MAIN STREET,TOOELE,UT,84074,40.529613,-112.297745,1,rooftop,47 S Main St,,"Tooele, UT 84074",47,S Main St,,,Tooele,UT,Tooele County,84074,US,Utah AGRC (and individual UT counties)
+TORRANCE COUNTY DETENTION FACILITY,209 COUNTY ROAD 49,ESTANCIA,NM,87016,34.76749723,-106.018635,0.5,place,,,"Estancia, NM 87016",,,,,Estancia,NM,Torrance County,87016,US,TIGER/Line® dataset from the US Census Bureau
+TULSA COUNTY JAIL (DAVID L. MOSS JUSTICE CTR),300 NORTH DENVER AVENUE,TULSA,OK,74103,36.157613,-95.999021,1,rooftop,300 N Denver Ave W,,"Tulsa, OK 74103",300,N Denver Ave W,,,Tulsa,OK,Tulsa County,74103,US,Tulsa
+UINTA COUNTY JAIL,77 COUNTY ROAD 109,EVANSTON,WY,82930,41.270361,-110.963852,1,rooftop,77 County Rd,109,"Evanston, WY 82930",77,County Rd,,109,Evanston,WY,Uinta County,82930,US,Statewide WY
+CHITTENDEN REGIONAL CORRECTIONAL FACILITY,7 FARRELL STREET,SOUTH BURLINGTON,VT,5403,44.446398,-73.205381,1,rooftop,7 Farrell St,,"South Burlington, VT 05403",7,Farrell St,,,South Burlington,VT,Chittenden County,5403,US,"Statewide (VT Enhanced 911 Board, VCGI)"
+NORTHWEST STATE CORRECTIONAL CENTER,3649 LOWER NEWTON ROAD,SWANTON,VT,5488,44.850446,-73.133281,1,rooftop,3649 Lower Newton Rd,,"Swanton, VT 05488",3649,Lower Newton Rd,,,Swanton,VT,Franklin County,5488,US,"Statewide (VT Enhanced 911 Board, VCGI)"
+WASHINGTON COUNTY JAIL (PURGATORY CORRECTIONAL FACILITY),750 SOUTH 5300 WEST,HURRICANE,UT,84737,37.158392,-113.412233,1,rooftop,750 S 5300 W,,"Hurricane, UT 84737",750,S 5300 W,,,Hurricane,UT,Washington County,84737,US,Washington
+WASHINGTON COUNTY DETENTION CENTER,1155 WEST CLYDESDALE DRIVE,FAYETTEVILLE,AR,72701,36.033446,-94.177403,1,rooftop,1155 W Clydesdale Dr,,"Fayetteville, AR 72701",1155,W Clydesdale Dr,,,Fayetteville,AR,Washington County,72701,US,City of Fayetteville
+WASHOE COUNTY JAIL,911 PARR BLVD 775 328 3308,RENO,NV,89506,39.574718,-119.813104,0.99,rooftop,911 Parr Blvd,3308,"Reno, NV 89512",911,Parr Blvd,,3308,Reno,NV,Washoe County,89512,US,Washoe
+WAUKESHA COUNTY JAIL,515 WEST MORELAND,WAUKESHA,WI,53186,43.02244,-88.228568,1,rooftop,515 W Moreland Blvd,,"Waukesha, WI 53188",515,W Moreland Blvd,,,Waukesha,WI,Waukesha County,53188,US,Waukesha
+BROWARD TRANSITIONAL CENTER,3900 NORTH POWERLINE ROAD,POMPANO BEACH,FL,33073,26.277176,-80.150897,1,rooftop,3900 N Powerline Rd,,"Pompano Beach, FL 33073",3900,N Powerline Rd,,,Pompano Beach,FL,Broward County,33073,US,Broward
+WEBB COUNTY DETENTION CENTER (CCA),9998 SOUTH HIGHWAY 83,LAREDO,TX,78041,27.37007044,-99.49036428,0.69,nearest_rooftop_match,9999 US-83,,"Laredo, TX 78046",9999,US-83,,,Laredo,TX,Webb County,78046,US,Statewide (CC 0 Texas Natural Resources Information System)
+WALTON COUNTY JAIL,40 SHERIFF CIR,DEFUNIAK SPRINGS,FL,32433,30.783466,-86.103999,1,rooftop,40 Sheriff Cir,,"Defuniak Springs, FL 32433",40,Sheriff Cir,,,Defuniak Springs,FL,Walton County,32433,US,Walton
+WOODBURY COUNTY JAIL,407 7TH STREET,SIOUX CITY,IA,51101,42.49776,-96.405896,1,rooftop,407 7th St,,"Sioux City, IA 51101",407,7th St,,,Sioux City,IA,Woodbury County,51101,US,Statewide IA
+NORTHERN REGIONAL JAIL,"RD. 2, BOX 1",MOUNDSVILLE,WV,26041,39.925201,-80.744538,0.8,nearest_rooftop_match,100 1st St,,"Moundsville, WV 26041",100,1st St,,,Moundsville,WV,Marshall County,26041,US,Marshall
+SOUTH CENTRAL REGIONAL JAIL,1001 CENTER WAY,CHARLESTON,WV,25309,38.310996,-81.710286,1,rooftop,1001 Centre Way,,"South Charleston, WV 25309",1001,Centre Way,,,South Charleston,WV,Kanawha County,25309,US,Kanawha
+WYATT DETENTION CENTER,950 HIGH STREET,CENTRAL FALLS,RI,2863,41.892328,-71.384013,1,rooftop,950 High St,,"Central Falls, RI 02863",950,High St,,,Central Falls,RI,Providence County,2863,US,Statewide RI
+LOGAN COUNTY JAIL,216 S BROAD ST,GUTHRIE,OK,73044,35.87653029,-97.4225036,1,rooftop,216 S. Broad St.,,Guthrie,,,,,,,,,,
+NATRONA COUNTY JAIL,1100 BRUCE LANE,CASPER,WY,82601,42.86274429,-106.3455026,,,,,,,,,,,,,,,
+ELMORE COUNTY JAIL,2255 E. 8TH NORTH,MOUNTAIN HOME,ID,83647,43.13696799,-115.6733537,,,,,,,,,,,,,,,
+DOUGLAS COUNTY,1409 HAMMOND AVENUE,SUPERIOR,WI,54880,46.72164923,-92.09819889,,,,,,,,,,,,,,,
+BOURBON CO DET CENTER,"BOURBON CO COURTHOUSE, MAIN STREET",PARIS,KY,40361,38.21337034,-84.24844439,,,,,,,,,,,,,,,
+BROOKS COUNTY DETENTION CENTER,901 COUNTY ROAD 201,FALFURRIAS,TX,78355,27.24818396,-98.12613816,,,,,,,,,,,,,,,
+ERO EL PASO CAMP EAST MONTANA,6920 DIGITAL RD,EL PASO,TX,79936,31.8121544,-106.2980603,,,,,,,,,,,,,,,
+FOLKSTON D RAY ICE PROCES,3262 HIGHWAY 252,FOLKSTON,GA,31537,30.838002,-81.999781,,,,,,,,,,,,,,,
+PLATTE COUNTY JAIL,850 MAPLE STREET,WHEATLAND,WY,82201,42.05570841,-104.9522498,,,,,,,,,,,,,,,
+ROBERT A DEYTON DETENTION FACILITY,11866 HASTINGS BRIDGE ROAD P.O. BOX 429,LOVEJOY,GA,30250,33.43502282,-84.30602475,,,,,,,,,,,,,,,
+TURNER GUILFORD KNIGHT (TGK) JAIL,7000 NW 41ST ST.,MIAMI,FL,33166,25.81039226,-80.31145023,,,,,,,,,,,,,,,
+DOD DETENTION FACILITY AT FORT BLISS,6920 DIGITAL RD,EL PASO,TX,79936,31.794075,-106.3687978,,,,,,,,,,,,,,,
+HALL COUNTY DEPARTMENT OF CORRECTIONS,110 PUBLIC SAFETY DRIVE,GRAND ISLAND,NE,68801,40.92709868,-98.32793483,,,,,,,,,,,,,,,
+CALIFORNIA CITY CORRECTIONAL CENTER,22844 VIRGINIA BOULEVARD,CALIFORNIA CITY,CA,93505,35.15194302,-117.8583085,,,,,,,,,,,,,,,
+RIVERSIDE REGIONAL JAIL,1000 RIVER ROAD,HOPEWELL,VA,23860,37.30811195,-77.34107624,,,,,,,,,,,,,,,
+WARD COUNTY JAIL,P.O. BOX 907,MINOT,ND,58702,48.23383185,-101.2868765,,,,,,,,,,,,,,,
+VICTORIA COUNTY JAIL,101 NORTH GLASS STREET,VICTORIA,TX,77901,28.80029058,-97.00745732,,,,,,,,,,,,,,,
+NELSON COLEMAN CORRECTION,5061 HIGHWAY 3127,KILLONA,LA,70057,29.99540351,-90.47637401,,,,,,,,,,,,,,,
+FOLKSTON D RAY ICE PROCESSING CTR,3262 HIGHWAY 252,FOLKSTON,GA,31537,30.838002,-81.999781,,,,,,,,,,,,,,,
+LOUISIANA ICE PROCESSING,18198 TUNICA TRACE BLDG E,ANGOLA,LA,70712,30.94074023,-91.56805267,,,,,,,,,,,,,,,
+WESTERN VIRGINIA REGIONAL JAIL,5885 W RIVER RD,SALEM,VA,24153,37.25082085,-80.16974598,,,,,,,,,,,,,,,
+FCI ATLANTA,"601 MCDONOUGH BOULEVARD, SE",ATLANTA,GA,30315,33.709503,-84.365903,,,,,,,,,,,,,,,
+ETOWAH COUNTY JAIL,827 FORREST AVENUE,GADSDEN,AL,35901,34.01663431,-86.01169504,,,,,,,,,,,,,,,
+PICKENS COUNTY DETENTION CENTER,188 CEMETERY ST,CARROLLTON,AL,35447,33.26055851,-88.09532537,,,,,,,,,,,,,,,
+ROCKINGHAM COUNTY JAIL,25 SOUTH LIBERTY STREET,HARRISONBURG,VA,22801,38.45597735,-78.8535956,,,,,,,,,,,,,,,
+"CAMBRIA COUNTY JAIL, PA",425 MANOR DRIVE+E206B2B206:G206,EBENSBURG,PA,15931,40.48594747,-78.69111782,,,,,,,,,,,,,,,
+CHRISTIAN COUNTY JAIL,"410 WEST 7TH STREET,",HOPKINSVILLE,KY,42240,36.86840374,-87.48986296,,,,,,,,,,,,,,,
+CROW WING COUNTY JAIL,313 LAUREL ST,BRAINERD,MN,56401,46.35677677,-94.2049656,,,,,,,,,,,,,,,
+DAVIS COUNTY,800 WEST STATE STREET,FARMINGTON,UT,84025,40.98029396,-111.9045723,,,,,,,,,,,,,,,
+DONA ANA COUNTY DETENTION CENTER,1850 COPPER LOOP,LAS CRUCES,NM,88004,32.30273642,-106.8052911,,,,,,,,,,,,,,,
+EASTERN REGIONAL JAIL,94 GRAPEVINE RD,MARTINSBURG,WV,25401,39.4361073,-77.95587648,,,,,,,,,,,,,,,
+EL PASO COUNTY DETENTION FACILITY,601 E. OVERLAND,EL PASO,TX,79901,31.75846958,-106.4825328,,,,,,,,,,,,,,,
+HILLSBOROUGH COUNTY JAIL,1201 NORTH ORIENT ROAD,TAMPA,FL,33619,27.95939174,-82.37133912,,,,,,,,,,,,,,,
+IRWIN COUNTY DETENTION CENTER,132 COTTON DRIVE,OCILLA,GA,31772,31.58002115,-83.25495611,,,,,,,,,,,,,,,
+LAWRENCE COUNTY,80 SHERMAN STREET,DEADWOOD,SD,57732,44.37440058,-103.7295906,,,,,,,,,,,,,,,
+MARTIN COUNTY JAIL,800 SOUTHEAST MONTEREY ROAD,STUART,FL,34994,27.17021575,-80.24175384,,,,,,,,,,,,,,,
+POLK COUNTY JAIL,2390 BOB PHILIPS ROAD,BARTOW,FL,33830,27.88140606,-81.81964424,,,,,,,,,,,,,,,
+RAPPAHANNOCK REGIONAL JAIL,1745 JEFFERSON DAVIS HIGHWAY,STAFFORD,VA,22554,38.40667795,-77.42156502,,,,,,,,,,,,,,,
+ROANOKE CITY JAIL,340 CAMPBELL AVENUE SOUTHWEST,ROANOKE,VA,24016,37.27150059,-79.94619747,,,,,,,,,,,,,,,
+SIOUX COUNTY JAIL,4363 IRONWOOD AVENUE,ORANGE CITY,IA,51041,43.01871295,-96.07625461,,,,,,,,,,,,,,,
+VAL VERDE CORRECTIONAL FACILITY,253 FARM TO MARKET 2523,DEL RIO,TX,78840,29.37327462,-100.8472126,,,,,,,,,,,,,,,
+WEBER COUNTY JAIL,721 WEST 12TH STREET,OGDEN,UT,84404,41.24036336,-111.9927773,,,,,,,,,,,,,,,
+WESTERN TENNESSEE DETENTION FACILITY,6299 FINDE NAIFEH DRIVE,MASON,TN,38049,35.40816113,-89.54782953,,,,,,,,,,,,,,,
+SAN DIEGO DISTRICT STAGING,US INS DETENTION & DEPORTATION,SAN DIEGO,CA,92101,32.71337347,-117.1637458,,,,,,,,,,,,,,,
+MCCOOK DETENTION CENTER,2309 N HIGHWAY 83,MCCOOK,NE,69001,40.22814254,-100.6484272,,,,,,,,,,,,,,,
+DAVIESS COUNTY DETENTION,3337 HIGHWAY 144,OWENSBORO,KY,42303,37.78681612,-87.07014901,,,,,,,,,,,,,,,
+MIAMI CORRECTIONAL CENTER,3038 WEST 850 SOUTH P.O. BOX 900,BUNKERHILL,IN,46914,40.64458261,-86.13198064,,,,,,,,,,,,,,,
+FULTON CO JAIL INDIANA,2006 SWEETGUM RD,ROCHESTER,IN,46975,41.05243696,-86.23102217,,,,,,,,,,,,,,,
+ADAMS COUNTY CORRECTIONAL CENTER,20 HOBO FORK RD.,NATCHEZ,MS,39120,31.555529,-91.219999,1,rooftop,20 Hobo Fork Rd,,"Natchez, MS 39120",20,Hobo Fork Rd,,,Natchez,MS,Adams County,39120,US,Adams
+BALDWIN COUNTY CORRECTIONAL CENTER,200 HAND AVE,BAY MINETTE,AL,36507,30.88548923,-87.77485838,,,,,,,,,,,,,,,
+CALIFORNIA CITY IMMIGRATION PROCESSING CENTER,22844 VIRGINIA BOULEVARD,CALIFORNIA CITY,CA,93505,35.15194302,-117.8583085,,,,,,,,,,,,,,,
+"CASCADE COUNTY JAIL, MT",3800 ULM NORTH FRONTAGE ROAD,GREAT FALLS,MT,59404,47.46914732,-111.3669748,,,,,,,,,,,,,,,
+CHAVEZ DETENTION CENTER,3701 S. ATKINSON,ROSWELL,NM,88201,33.35171676,-104.5038307,,,,,,,,,,,,,,,
+FARMVILLE DETENTION CENTER,508 WATERWORKS ROAD,FARMVILLE,VA,23901,37.32058,-78.440928,1,rooftop,508 Water Works Rd,,"Farmville, VA 23901",508,Water Works Rd,,,Farmville,VA,Prince Edward County,23901,US,Virginia Geographic Information Network (VGIN)
+KARNES COUNTY CORRECTIONAL CENTER,810 COMMERCE STREET,KARNES CITY,TX,78118,28.88365605,-97.91132479,,,,,,,,,,,,,,,
+LARAMIE COUNTY JAIL,1910 PIONEER AVENUE,CHEYENNE,WY,82001,41.13505818,-104.8188436,,,,,,,,,,,,,,,
+MINICASSIA DETENTION CENTER,1415 ALBION AVENUE,BURLEY,ID,83318,42.53508065,-113.7904778,,,,,,,,,,,,,,,
+SCOTT COUNTY DET. FACILITY,416 W 4TH ST,DAVENPORT,IA,52801,41.5240485,-90.57945436,,,,,,,,,,,,,,,
+CAMBRIA COUNTY PRISON,425 MANOR DRIVE,EBENSBURG,PA,15931,40.48594747,-78.69111782,,,,,,,,,,,,,,,
+DIAMONDBACK CORR FACILITY,"ROUTE 2, BOX 336",WATONGA,OK,73772,35.88736259,-98.39846685,,,,,,,,,,,,,,,
+NORTH CENTRAL REGIONAL JAIL,#1 LOIS LANE,GREENWOOD,WV,26415,39.28131983,-80.8531353,,,,,,,,,,,,,,,
+SOUTHERN REGIONAL,1200 AIRPORT RD,BEAVER,WV,25813,37.77108504,-81.11617722,,,,,,,,,,,,,,,
+SOUTHWESTERN REGIONAL JAIL,13 GASTON CAPERTON DR.,HOLDEN,WV,25625,37.80588759,-82.09600621,,,,,,,,,,,,,,,
+WESTERN REGIONAL JAIL AND CORRECTIONAL FACILITY,1 O�HANLON PL,BARBOURSVILLE,WV,25504,38.41880617,-82.29319886,,,,,,,,,,,,,,,
+LEWISBURG US PENITENTIARY,P.O. BOX 1000,LEWISBURG,PA,17837,40.96750163,-76.90922788,,,,,,,,,,,,,,,
+LAFAYETTE PARISH CORRECTIONAL CENTER,916 LAFAYETTE STREET,LAFAYETTE,LA,70501,30.2235844,-92.0214211,,,,,,,,,,,,,,,
+SARASOTA COUNTY JAIL,2020 MAIN ST,SARASOTA,FL,34237,27.33628153,-82.52979388,,,,,,,,,,,,,,,
+TOM GREEN COUNTY JAIL,122 WEST HARRIS AVENUE,SAN ANGELO,TX,76903,31.49812227,-100.3669271,,,,,,,,,,,,,,,
+DILLEY PROCESSING SINGLE ADULT FEMALE,300 EL RANCHO WAY,DILLEY,TX,78017,28.658454,-99.200878,,,,,,,,,,,,,,,
+BAKER CORRECTIONAL INSTITUTION,20706 US 90 W,SANDERSON,FL,32087,30.21513623,-82.37386061,,,,,,,,,,,,,,,
+FLORIDA SOFT-SIDED FACILITY,54575 TAMIAMI TRL E,OCHOPEE,FL,34141,25.86807479,-80.8995249,,,,,,,,,,,,,,,
+FLAGLER COUNTY JAIL,1002 JUSICE LANE,BUNNELL,FL,32110,29.45261927,-81.25599865,,,,,,,,,,,,,,,
+LIBERTY COUNTY JAIL,12499 NW POGO ST PO BOX 67,BRISTOL,FL,32321,30.43409396,-84.96867432,,,,,,,,,,,,,,,
+MIDWEST REGIONAL RECEPTION CENTER,100 HIGHWAY TERRACE,LEAVENWORTH,KS,66048,39.27203591,-94.89162806,,,,,,,,,,,,,,,
+ST. LUCIE COUNTY JAIL,900 N. ROCK RD.,FORT PIERCE,FL,34945,27.45338754,-80.40996413,,,,,,,,,,,,,,,
+KANSAS CITY HOLDROOM,9747 NW CONANT AVENUE,KANSAS CITY,MO,64153,39.2688899113831,-94.675398831359,,,,,,,,,,,,,,,
+JTF CAMP SIX,AVENUE C PSC 1005 BOX 55,FPO,FL,34009,,,,,,,,,,,,,,,,,
+GUAYNABO MDC (SAN JUAN),HWY 28 INTSECT OF ROAD 165,SAN JUAN,PR,939,,,,,,,,,,,,,,,,,
+NORTHWESTERN REGIONAL JUVENILE DETENTION CENTER,145 FT COLLIER RD,WINCHESTER,VA,22603,39.2019560987414,-78.1442435108652,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+.~lock.*
+html/
+plots*/
+mandatory_plots*/
+outputs/
+*.zip
