@@ -1,6 +1,16 @@
 # ice_detention_reports
 Repo for finalized reporting of ICE detention parameterized reports
 
+## Quick start
+
+Open `ice_detention_reports.Rproj` in RStudio (sets the working directory correctly), drop the new xlsx into `./DetentionFacilities/`, then run:
+
+```r
+source("run_pipeline.r")
+```
+
+This sequences Parts 1–3 below in the right order, including setting the shared date globals (`touchpoint_date`, `as_of_date`, `plots_folder`) before any step that depends on them. The steps below describe what each part does and the manual checks/edits you still need to make along the way (new facility lat/longs, special-case facilities, etc.) — you don't need to `source()` each script separately unless troubleshooting one step in isolation.
+
 ### Part 1 Create Interval ADP charts
 1. Visually check new facility data.
 	- Are population values rounded?

@@ -18,10 +18,15 @@ This is an R-based pipeline that processes ICE detention facility statistics (fr
 
 This is an RStudio project (`ice_detention_reports.Rproj`). Open that file to set the working directory correctly. All scripts use relative paths from the project root.
 
-Run scripts via RStudio console or `Rscript`:
+**Preferred: run the whole pipeline via `run_pipeline.r`**, which sequences steps 1–3 above (plus mandatory-detention charts) and sets shared date globals (`touchpoint_date`, `as_of_date`, `plots_folder`) once, before any script that depends on them:
+```r
+source("run_pipeline.r")
+```
+
+If you need to run steps individually, `interval_adp_chartmaker.r` depends on `touchpoint_date` existing already — set it (and `as_of_date`, `plots_folder`) before sourcing it, or it derives them itself when absent:
 ```r
 source("interval_adp.r")
-source("interval_adp_chartmaker.r")
+source("interval_adp_chartmaker.r")  # derives touchpoint_date/as_of_date/plots_folder if not already set
 source("Individual_Internal_ADP.r")
 source("facilities_reporting.r")
 ```

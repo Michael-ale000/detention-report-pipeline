@@ -1,6 +1,18 @@
 #interval adp chartmaker
 
 if (!exists("final")) source('interval_adp.r')
+
+# Set date globals if not already defined (e.g. when run standalone vs. via run_pipeline.r).
+# Must happen before sourcing one_facility_table.r, which calls one_facility_table() at
+# source-time and needs touchpoint_date to already exist.
+if (!exists("touchpoint_date")) {
+  touchpoint_date <- max(final$`Pull Date`, na.rm = TRUE)
+  as_of_date      <- format(touchpoint_date, "%B %d, %Y")
+  plots_folder    <- paste0("plots", format(touchpoint_date, "%Y_%m_%d"))
+  dir.create(plots_folder, showWarnings = FALSE)
+  dir.create("plots7", showWarnings = FALSE)
+}
+
 source('one_facility_plot.r')
 source('one_facility_table.r')
 source('one_facility_scatter_plot.r')
@@ -13,15 +25,6 @@ library(magick)
 #View(final)
 #dim(final)
 write.xlsx(final,"all_merged_file.xlsx")
-
-# Set date globals if not already defined (e.g. when run standalone vs. via run_pipeline.r)
-if (!exists("touchpoint_date")) {
-  touchpoint_date <- max(final$`Pull Date`, na.rm = TRUE)
-  as_of_date      <- format(touchpoint_date, "%B %d, %Y")
-  plots_folder    <- paste0("plots", format(touchpoint_date, "%Y_%m_%d"))
-  dir.create(plots_folder, showWarnings = FALSE)
-  dir.create("plots7", showWarnings = FALSE)
-}
 
 message("=== Chartmaker running for ", as_of_date, " ===")
 
