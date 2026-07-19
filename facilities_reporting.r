@@ -85,7 +85,13 @@ facilities_final <- facilities_final |>
          Longitude = as.numeric(Longitude))
 
 # Auto-detect interval ADP xlsx
+# Excludes "_v2_for_mandatory" files: those are written by MandatoryDetentionNumber.r
+# (which runs after Individual_Internal_ADP.r in run_pipeline.r) and lack the
+# Owner/Operator/Institutional.Type columns the report needs, so if picked here every
+# facility's report would show "Not Available" for those fields. mtime ordering alone
+# isn't reliable to distinguish them since both files can land on the same mtime.
 interval_files <- list.files(".", pattern = "IntervalAdpForIndividualColumn.*\\.xlsx$", full.names = TRUE)
+interval_files <- interval_files[!grepl("_for_mandatory", interval_files)]
 interval_xlsx  <- interval_files[which.max(file.mtime(interval_files))]
 
 # Use globals from run_pipeline.r if available; otherwise derive from interval xlsx filename
